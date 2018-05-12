@@ -1,0 +1,60 @@
+_repo: The-Tale-of-the-Pie-and-the-Patty-Pan_15234
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15234-h/images/piecover.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of the Pie and the Patty-Pan (originally, The Pie and the Patty-Pan)\
+  \ is a children's book written and illustrated by Beatrix Potter, and published\
+  \ by Frederick Warne & Co. in October 1905. It tells of a cat called Ribby and a\
+  \ tea party she holds for a dog called Duchess. Complications arise when Duchess\
+  \ tries to replace Ribby's mouse pie with her own veal and ham pie, and then believes\
+  \ she has swallowed a small tin pastry form called a patty-pan. Its themes are etiquette\
+  \ and social relations in a small town.\nA version of the tale was composed by Potter\
+  \ in 1903, but set aside to develop other projects. In 1904, she failed to complete\
+  \ a book of nursery rhymes for Warnes, and the 1903 tale was accepted in its stead.\
+  \ Potter elaborated its setting and storyline, and developed the tale more fully\
+  \ before publication. The illustrations depict the cottages and gardens of Sawrey,\
+  \ a village in the Lake District near Potter's Hill Top farm, and have been described\
+  \ as some of the most exquisite Potter ever produced. Ribby was modelled on a cat\
+  \ living in Sawrey, Duchess on two Pomeranians belonging to Potter's neighbour Mrs\
+  \ Rogerson, Tabitha Twitchit on Potter's cat at Hill Top, and Dr Maggoty on the\
+  \ magpies in the London Zoological Gardens.\nThe tale was published in a larger\
+  \ size than Potter's previous books, but was reduced in the 1930s to bring it into\
+  \ line with the other books in the Peter Rabbit series. It was given its present\
+  \ title at that time. Potter declared the tale her next favourite to The Tailor\
+  \ of Gloucester. Beswick Pottery released porcelain figurines of the tale's characters\
+  \ through the latter half of the 20th century, and Schmid & Co. released a music\
+  \ box in the 1980s.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15234'
+  wikidata: Q4264077
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Tale of the Pie and the Patty Pan
+url: http://www.gutenberg.org/ebooks/15234
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A4%E3%81%8C%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%82%E3%81%A3%E3%81%9F%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://en.wikipedia.org/wiki/The_Tale_of_the_Pie_and_the_Patty-Pan
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_the_Pie_and_the_Patty-Pan
+- https://pt.wikipedia.org/wiki/The_Tale_of_the_Pie_and_the_Patty-Pan
+- https://id.wikipedia.org/wiki/The_Tale_of_the_Pie_and_the_Patty-Pan
